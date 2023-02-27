@@ -1,9 +1,12 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/posts/aaron-swartz-a-programmable-web": "pages/posts/aaron-swartz-a-programmable-web.html",
+  "/posts/code-blocks": "pages/posts/code-blocks.html",
+  "/posts": "pages/posts.html",
+  "/posts/table": "pages/posts/table.html",
+  "/tags/[tag]": "pages/tags/[tag].js",
   "/_document": "pages/_document.js",
-  "/posts": "pages/posts.js",
-  "/posts/table": "pages/posts/table.js",
-  "/posts/code-blocks": "pages/posts/code-blocks.js",
-  "/posts/aaron-swartz-a-programmable-web": "pages/posts/aaron-swartz-a-programmable-web.js"
+  "/404": "pages/404.html"
 }
